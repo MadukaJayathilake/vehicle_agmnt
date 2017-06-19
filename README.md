@@ -1,2 +1,2 @@
-# vehicle_agmnt
-Vehicle sale
+Angular 2 Assignment
+A simple vehicle selling application. 
